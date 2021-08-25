@@ -58,7 +58,7 @@ section {
     padding: 60px;
 }
 .hero {
-    background-image: url("./assets/images/hero-bg1.jpg");
+    background-image: url("../assets/images/hero-bg1.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
